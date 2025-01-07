@@ -1,0 +1,155 @@
+*{
+    padding:0%;
+    margin:0%;
+    
+}
+body{
+    background-color: lavender;
+}
+li,img,ul,h1{
+    display:inline;
+  }
+ .nav{
+    background-color: lightslategray;
+ }
+.menu{
+    background-color:lightslategrey;
+    color:black;
+    border:solid;
+    border-color: black;
+    }
+ul{
+    margin-left:50%;
+    font-size: 30px;
+} 
+ .one,a:hover{
+    color:white;
+    cursor: pointer;
+ }
+ p{
+    font-size: 25px;
+ }
+h1{
+    font-size: 30px;
+    display:inline;
+    margin-left: 50px;
+}
+.image{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.about{
+      padding:15px;
+}
+    
+
+.contact{
+    border:solid;
+    border-color: black;
+    background-color:lightslategray;
+    height: 100px;
+    padding: 15px;
+    margin-top: 25px;
+
+}
+.box{
+    
+    display: inline;
+    font-size:25px;
+    margin-left: 35%;
+}
+a{
+    color:black
+}
+.one{
+    text-align: left;
+}
+.two{
+    margin-top: 35px;
+    font-size: 35px;
+}
+.table{
+    padding:25px;
+    margin-top: 20px;
+    margin-left: 40%;
+    margin-bottom: 10px;
+    border-color: black;
+    border:solid;
+    display:inline block;
+    height: 250px;
+    width:300px;
+}
+td{
+    font-size: larger;
+    padding: 20px;
+}
+.login{
+    margin-bottom: 10%;
+}
+center-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-form-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.login-title {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.input-group {
+    margin: 10px 0;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input-group input:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.submit-button button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.submit-button button:hover {
+    background-color: #0056b3;
+}
+
+.signup-link a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.signup-link a:hover {
+    text-decoration: underline;
+}
+
+
+
+              
